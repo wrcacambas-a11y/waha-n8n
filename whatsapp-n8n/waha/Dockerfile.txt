@@ -1,0 +1,2 @@
+# Dockerfile para WAHA (WhatsApp API)
+FROM devlikeapro/waha:latest
